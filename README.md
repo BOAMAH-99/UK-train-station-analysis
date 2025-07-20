@@ -1,7 +1,4 @@
-# UK-train-station-analysis
-A Power BI dashboard analyzing UK train delays, cancellations, and refund trends. 
-
-# UK Train Dashboard
+# UK Train Station Analysis
 
 This project explores and analyzes a UK train travel ticketing and travelling focusing on delays, cancellations, and refund request behaviour. The dashboard was built in **Power BI**, and insights were derived from a 31,000-row dataset
 
