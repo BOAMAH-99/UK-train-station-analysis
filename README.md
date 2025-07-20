@@ -17,10 +17,11 @@ _or view below:_
 
 <iframe title="UK TRAIN ANALYSIS DASHBOARD" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=ed853100-e602-41c8-a42c-58a1b429a2ab&autoAuth=true&ctid=bd697c1b-c481-479c-841e-c618542675c3" frameborder="0" allowFullScreen="true"></iframe>
 
-### Skills Used
-- Python (Pandas, Seaborn, Matplotlib, Scipy and Excel)
+### Tools and Skills Used
+- Python (Pandas, Seaborn, Matplotlib, Scipy)
 - Power BI (DAX, visuals, KPIs)
 - Data Cleaning & Exploratory Data Analysis (EDA)
+- Excel(Data set reading and comprehension)
 
 ### Key Findings:
 - Refunds are significantly higher for delayed and cancelled trips.
