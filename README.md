@@ -13,7 +13,7 @@ This analysis explores operational performance and refund behavior in a train se
 
 _or view below:_
 
-<iframe title="UK TRAIN ANALYSIS DASHBOARD" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=ed853100-e602-41c8-a42c-58a1b429a2ab&autoAuth=true&ctid=bd697c1b-c481-479c-841e-c618542675c3" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="UK TRAINS ANALYSIS DASHBOARD" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=ed853100-e602-41c8-a42c-58a1b429a2ab&autoAuth=true&ctid=bd697c1b-c481-479c-841e-c618542675c3" frameborder="0" allowFullScreen="true"></iframe>
 
 ### Tools and Skills Used
 - Python (Pandas, Seaborn, Matplotlib, Scipy)
@@ -32,7 +32,7 @@ _or view below:_
 - The data also revealed significant variations in refund rates across different routes and ticket types. This opens up opportunities for targeted adjustments in refund policies, allowing more precision in how customer service rules are applied based on risk patterns.
 - Advance ticket types are consistently associated with higher cancellation rates. This reinforces the importance of reviewing and updating ticket flexibility policies to help reduce unnecessary revenue loss due to possible change of plan leading to cancellations
 - Despite achieving a strong on time performance of 87%, the company still incurs high losses from delayed trips, totaling £127,000.00. This indicates that hidden inefficiencies exist beneath the headline performance metrics and should be addressed.
-- Operational issues accounted for a large share of both delay and cancellation reasons. This emphasizes the need for additional investment in staff training, technical readiness, and scheduling control to reduce preventable service failures.
+- Controllable operational issues accounted for the most popular reasons for delays and cancellations. This emphasizes the need for additional investment in staff training, equippment improvemt, technical readiness, and scheduling control to reduce preventable service failures.
 - Specific routes stand out as hotspots for refund activity. The routes from York to Peterborough, Durham, Doncaster, and Edinburgh, as well as Reading to Swindon, accounted for 1,077 refund requests. York in particular appears to be a key departure station linked to refund heavy journeys, suggesting a need for operational review at the York location.
 - Early morning bookings rarely Lead to refunds. Very low refund rates originate from bookings made between 0:00 and 6:00 AM, across all days.
 - The late afternoon travel window is operationally fragile, when disruptions occur, they have an outsized impact on refund request rate.
