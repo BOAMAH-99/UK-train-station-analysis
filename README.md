@@ -4,9 +4,8 @@ This analysis explores operational performance and refund behavior in a train se
 
 
 ### Key Features
-- Interactive Power BI dashboard
-- Visual analysis of delay trends, refund patterns, and revenue loss
-- Testing to improve accuracy of analysis
+- Power BI (Interactive dashboard)
+- Jupyter Notebook (Visual analysis of delay trends, refund patterns, and revenue loss)
 
 ### Dashboard
 [View the interactive Power BI dashboard](https://app.powerbi.com/reportEmbed?reportId=ed853100-e602-41c8-a42c-58a1b429a2ab&autoAuth=true&ctid=bd697c1b-c481-479c-841e-c618542675c3) 
