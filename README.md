@@ -61,7 +61,7 @@ This analysis focuses on understanding how journey disruptions influence refund 
 ### Analysis
 Conducted EDA on 31,000+ train records using Python (Pandas, Seaborn) and Power BI. Built KPIs, trend charts, and interactive dashboards to visualize refunds, delays, and cancellations. Applied DAX for custom metrics and also applied statistical testing for actionable insights. Cleaned and prepared dataset and also transformed time-series, categorical, missing data and new columns for analysis
 
-#### [Notebook.ipynb](https://github.com/BOAMAH-99/UK-train-station-analysis/blob/07c8d44e1e92d85e4ea3ffb40c2754885411e278/notebooks/Note_book.ipynb) for initial analysis
+#### [Notebook.ipynb](https://github.com/BOAMAH-99/UK-train-station-analysis/blob/07c8d44e1e92d85e4ea3ffb40c2754885411e278/notebooks/Note_book.ipynb) for initial analysis, primarily Data Cleaning and EDA and continued using Power BI
 
 ### Dashboard
 <p align="center"><img src="https://github.com/BOAMAH-99/UK-train-station-analysis/blob/9aa6ee37ef2395fc223c03010481101b07f11bb4/Document/Dashboard.jpg" width="800"></p>
