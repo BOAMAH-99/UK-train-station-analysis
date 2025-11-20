@@ -62,7 +62,7 @@ Business Development and Planning:
 - Excel(Data set reading and comprehension)
   
 ### Dashboard
-<p align="center"><img src="https://github.com/BOAMAH-99/UK-train-station-analysis/blob/9aa6ee37ef2395fc223c03010481101b07f11bb4/Document/Dashboard.jpg" width="600"></p>
+<p align="center"><img src="https://github.com/BOAMAH-99/UK-train-station-analysis/blob/9aa6ee37ef2395fc223c03010481101b07f11bb4/Document/Dashboard.jpg" width="800"></p>
 
 ### Key Findings:
 - Refunds spikes when delays crosses the 20 minutes mark, this suggests there is a customer tolerance threshold of 20 minutes, after which passengers are more likely to request a refund. Interventions aimed at preventing delays from crossing this window could reduce refund volumes substantially.
