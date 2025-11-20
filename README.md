@@ -1,18 +1,61 @@
 # UK Train Station Analysis
+This analysis explores the operational performance and refund behavior of customers for a United Kingdom train service company. 
 
-This analysis explores operational performance and refund behavior in a train service dataset. The objective is to uncover patterns in journey delays, cancellations, and refund requests, and assess their financial impact. By examining factors such as journey status, ticket type, delay reasons, time patterns, and route performance, this study identifies inefficiencies and provides data-driven insights to support operational improvements and reduce revenue loss.
+### Project Objective
+The objective of this analysis is to uncover patterns in journey delays, cancellations, and refund requests, and assess their financial impact. By examining factors such as journey status, ticket type, delay reasons, time patterns, and route performance, I am able to identify inefficiencies, patterns and gaps to provides data-driven insights to support operational improvements, reduce revenue loss and improve the general customer experience.
 
+### Project Background
+Train services in the UK operate in a fast-paced environment and competitive market where millions of passengers rely on timely journeys for work, travel, and personal reasons. Train operators often report strong  performances but hidden within it are underlying problems that still affect customer experience and company revenue.
 
-### Key Features
-- Power BI (Interactive dashboard)
-- Jupyter Notebook (Visual analysis of delay trends, refund patterns, and revenue loss)
+Delays, cancellations, and refund requests directly reduce profitability. Even small disruptions can trigger refund claims, leading to large revenue losses in the long run.
+
+This analysis focuses on understanding how journey disruptions influence refund behavior and financial performance. By examining operational trends and customer reactions, this analysis reveals where and how the company is losing money and what can be improved. This allows the company reduce avoidable losses, improve service reliability, and build passenger trust
+
+### Business Needs
+- Pinpoint internal operational factors causing delays and cancellations.
+- A better understanding of what triggers refunds and how passenger behavior changes.
+- Insight into which routes, ticket types, and delay reasons are causing the revenue losses.
+- Develop targeted strategies for preventing delays and cancellations.
+- Clear guidance on operational actions that reduce refund claims, especially when delays cross critical thresholds.
+- Policies that help retain revenue without harming customer experience.
+- A way to prioritize improvements based on financial impact and general performance statistics
+- A foundation for predictive analytics to preempt delays and optimize resource allocation, ultimately strengthening profitability and passenger satisfaction
+
+### Stakeholders and their Analytical Needs
+Operations Managers:
+- Need to know which routes and stations are causing the most delays and cancellations.
+- Require insights into what types of issues (technical, staffing, scheduling) are most responsible for underlying problems.
+- Must identify operational improvements that can reduce disruptions and protect revenue.
+Customer Experience Teams:
+- Need to understand what drives refund requests and customer dissatisfaction.
+- Need guidance on proactive communication strategies that reduce frustration and refund claims.
+Revenue and Finance Teams:
+- Need a breakdown of how refunds impact total earnings.
+- Need cost-based prioritization of improvements to choose where investments will save the most money.
+Technical and Maintenance Teams:
+- Need to understand how equipment failures contribute to delays and cancellations.
+- Require evidence that supports better maintenance scheduling and resource allocation.
+Policy & Ticketing Management:
+- Require support to design ticket flexibility policies that retain revenue without harming customer satisfaction
+Human Resources and Staff Management:
+- Looks at staffing-related delay and cancellation data to plan shifts, training needs, and improve workforce performance.
+Business Development and Planning:
+- Utilizes trend and route performance analytics to plan service expansions, partnerships, and flexible ticketing strategies
+
+### Key Questions to Answer
+- What are the main causes of train delays and cancellations, and how frequently do they occur?
+- How do delays and cancellations vary by route, station, time of day, and ticket type?
+- At what delay duration do passengers typically begin requesting refunds?
+- What is the financial impact of delays and cancellations on overall revenue?
+- Which routes and stations contribute most to refund requests and revenue loss?
+- How do technical issues and staff performance contribute to service disruptions?
+- What patterns exist in passenger refund behavior, and how does service quality affect it?
+- How effective are current policies for handling refunds, ticket flexibility, and customer communication?
+- How can early intervention and predictive analytics be used to minimize delays and cancellations?
+- What operational, staffing, and maintenance improvements are needed to reduce disruptions?
 
 ### Dashboard
-[View the interactive Power BI dashboard](https://app.powerbi.com/reportEmbed?reportId=ed853100-e602-41c8-a42c-58a1b429a2ab&autoAuth=true&ctid=bd697c1b-c481-479c-841e-c618542675c3) 
 
-_or view below:_
-
-<iframe title="UK TRAINS ANALYSIS DASHBOARD" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=ed853100-e602-41c8-a42c-58a1b429a2ab&autoAuth=true&ctid=bd697c1b-c481-479c-841e-c618542675c3" frameborder="0" allowFullScreen="true"></iframe>
 
 ### Tools and Skills Used
 - Python (Pandas, Seaborn, Matplotlib, Scipy)
