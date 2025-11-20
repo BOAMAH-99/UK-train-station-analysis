@@ -22,24 +22,24 @@ This analysis focuses on understanding how journey disruptions influence refund 
 - A foundation for predictive analytics to preempt delays and optimize resource allocation, ultimately strengthening profitability and passenger satisfaction
 
 ### Stakeholders and their Analytical Needs
-Operations Managers:
+#### Operations Managers:
 - Need to know which routes and stations are causing the most delays and cancellations.
 - Require insights into what types of issues (technical, staffing, scheduling) are most responsible for underlying problems.
 - Must identify operational improvements that can reduce disruptions and protect revenue.
-Customer Experience Teams:
+#### Customer Experience Teams:
 - Need to understand what drives refund requests and customer dissatisfaction.
 - Need guidance on proactive communication strategies that reduce frustration and refund claims.
-Revenue and Finance Teams:
+#### Revenue and Finance Teams:
 - Need a breakdown of how refunds impact total earnings.
 - Need cost-based prioritization of improvements to choose where investments will save the most money.
-Technical and Maintenance Teams:
+#### Technical and Maintenance Teams:
 - Need to understand how equipment failures contribute to delays and cancellations.
 - Require evidence that supports better maintenance scheduling and resource allocation.
-Policy & Ticketing Management:
+#### Policy & Ticketing Management:
 - Require support to design ticket flexibility policies that retain revenue without harming customer satisfaction
-Human Resources and Staff Management:
+#### Human Resources and Staff Management:
 - Looks at staffing-related delay and cancellation data to plan shifts, training needs, and improve workforce performance.
-Business Development and Planning:
+#### Business Development and Planning:
 - Utilizes trend and route performance analytics to plan service expansions, partnerships, and flexible ticketing strategies
 
 ### Key Questions to Answer
