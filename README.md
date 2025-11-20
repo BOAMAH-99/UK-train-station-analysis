@@ -85,7 +85,7 @@ This analysis focuses on understanding how journey disruptions influence refund 
 
 ### Expected Impact / Results
 
-Implementing the recommended operational and policy changes is expected to significantly reduce refund-driven revenue loss. By addressing delay triggers at critical stations, improving technical readiness, optimizing staffing, and introducing flexible ticket options, the operator can reclaim a large portion of avoidable losses—especially from delay-related refunds, which are currently three times more costly than cancellations.
+Implementing the recommended operational and policy strategies is expected to reduce refund-driven revenue loss. By addressing delay triggers, improving technical readiness, optimizing staffing, and introducing flexible ticket options, the company can reclaim a large portion of avoidable losses from delay and cancellation related refunds.
 
 With proactive customer communication and early interventions, the business can lower refund requests, protect customer satisfaction, and strengthen long-term trust. Overall, these improvements can reduce refund-related revenue loss by an estimated 20–30%, while improving service reliability and operational efficiency across high-risk routes
 
