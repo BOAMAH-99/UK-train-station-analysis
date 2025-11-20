@@ -7,7 +7,7 @@ The objective of this analysis is to uncover patterns in journey delays, cancell
 ### Project Background
 Train services in the UK operate in a fast-paced environment and competitive market where millions of passengers rely on timely journeys for work, travel, and personal reasons. Train operators often report strong  performances but hidden within it are underlying problems that still affect customer experience and company revenue.
 
-Delays, cancellations, and refund requests directly reduce profitability. Even small disruptions can trigger refund claims, leading to revenue losses and customer distruts in the long run.
+Delays, cancellations, and refund requests directly reduce profitability. Even small disruptions can trigger refund claims, leading to revenue losses and customer distrust in the long run.
 
 This analysis focuses on understanding how journey disruptions influence refund behavior and financial performance. By examining operational trends and customer reactions, this analysis reveals where and how the company is losing money and what can be improved. This allows the company reduce avoidable losses, improve service reliability, and build customer trust
 
